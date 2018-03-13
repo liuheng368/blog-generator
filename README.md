@@ -1,3 +1,5 @@
+相关命令
+
 主题更换： _config.yml 的第 75 行改为 theme: hexo-theme-next，保存
 hexo new "postName" #新建文章
 hexo new page "pageName" #新建页面
